@@ -23,7 +23,7 @@ I’m a soon to be a Computer Science graduate student from Portland State who e
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🎓 Research Assistant — *Portland State University*  
 *Jan 2025 – Present*  
@@ -40,7 +40,7 @@ I’m a soon to be a Computer Science graduate student from Portland State who e
 
 ---
 
-## 🚀 Projects That Inspire Me
+## 🚀 Projects I worked On
 
 ### 🛰 [Trimet Transit Operations Analysis](https://github.com/siddhanth2001/Trimet_transit_analysis)  
 *Python • PostgreSQL • GCP*  
@@ -64,7 +64,3 @@ I’m a soon to be a Computer Science graduate student from Portland State who e
 - 📧 Email: siddhanthjain09@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/siddhanth-darshan-jain-gn-8b8b4826b/)  
 - 💻 [GitHub](https://github.com/siddhanth2001)
-
----
-
-> *"Code is poetry when built with purpose — I’m here to write meaningful lines."*
