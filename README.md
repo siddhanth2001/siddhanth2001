@@ -2,60 +2,68 @@
 
 🎓 **Master’s Student in Computer Science**  
 📍 Portland State University | Portland, OR  
-🚀I enjoy building smart, scalable software with data, cloud, and a touch of AI  
+🚀 I enjoy building scalable software and machine learning systems with cloud-native data pipelines and AI
 
 ---
 
 ## 🧠 About Me
 
-I’m a soon to be a Computer Science graduate student from Portland State who enjoys building practical and scalable software solutions. I like working with data, cloud technologies, and AI to solve real-world problems and make everyday tasks easier.
+I’m a soon-to-be Computer Science graduate from Portland State University with a focus on AI, machine learning, and cloud infrastructure. I specialize in turning complex data into intelligent systems that solve real-world problems — whether it's predicting user behavior or optimizing system performance.
 
 ---
 
 ## 🔧 Tech Toolbox
 
-- **Languages**: Python • C++ • JavaScript • Bash  
-- **Frameworks & Web**: Flask • Django • React.js • HTML/CSS  
-- **DevOps & Infra**: Docker • Kubernetes • AWS • GCP • Terraform • GitHub Actions • Jenkins  
+- **Languages**: Python • C++ • Java • SQL • Bash  
+- **ML & Data Tools**: scikit-learn • TensorFlow • PyTorch • Pandas • Airflow • Snowflake • BigQuery  
+- **Frameworks & Web**: Flask • Django • React.js  
+- **Cloud & DevOps**: AWS • GCP • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins  
 - **Databases**: PostgreSQL • MySQL • MongoDB  
-- **Tools**: Git • GitHub • GitLab • JIRA • VS Code • PyCharm  
-- **Practices**: Agile • CI/CD • API Design • Automation • Cloud-Native Architectures
+- **Systems & Tools**: Linux • Git • GitHub • GitLab • JIRA • VS Code • PyCharm  
+- **Practices**: Agile • CI/CD • API Design • Automation • Distributed Systems
 
 ---
 
 ## 💼 Experience
 
+### 🤖 Software engineer — *FindInbox Pvt Ltd*  
+*Aug 2021 – Aug 2023 | Bengaluru, India (Hybrid)*  
+- Developed and deployed ML models for user targeting and recommendation using Python, scikit-learn, and TensorFlow.  
+- Built Airflow pipelines and Snowflake data structures to power real-time marketing analytics and segmentation.  
+- Implemented containerized workflows with Docker and CI/CD pipelines using GitHub Actions.  
+- Collaborated with cross-functional teams to optimize campaign performance and system uptime.
+
+### 💡 Software Intern — *FindInbox Pvt Ltd*  
+*Aug 2020 – Aug 2021 | Remote*  
+- Contributed to backend systems with Django and PostgreSQL.  
+- Supported early experimentation with ML-based lead scoring systems.
+
 ### 🎓 Research Assistant — *Portland State University*  
 *Jan 2025 – Present*  
-- Researching how AI can enhance personalization in real-world platforms like mobile apps and e-learning systems.
+- Exploring how AI and behavior-driven models improve personalization in e-learning and mobile platforms.  
+- Experimenting with ML pipelines for real-world deployment and optimization.
 
 ### 🏨 Front Desk + IT Support — *University Place Hotel*  
 *May 2024 – Present*  
-- Assisted guests and handled frontline IT troubleshooting for hotel management systems.
-
-### 💻 Software Intern — *Bionic Engineers*  
-*Sep 2022 – Jan 2023*  
-- Developed full-stack web apps with Django & MySQL.  
-- Designed REST APIs and set up CI/CD pipelines using PyTest and GitHub Actions.
-
+- Delivered guest services while managing basic IT troubleshooting for hotel systems in a Linux-based environment.
 ---
 
-## 🚀 Projects I worked On
+## 🚀 Projects I Worked On
 
 ### 🛰 [Trimet Transit Operations Analysis](https://github.com/siddhanth2001/Trimet_transit_analysis)  
 *Python • PostgreSQL • GCP*  
-- Built a real-time data pipeline to analyze and optimize public transit operations.  
-- Processed 1M+ daily records to improve routing and reduce delays.
+- Built a cloud-native pipeline that processed over 1M daily transit logs using Pub/Sub and Cloud Functions.  
+- Enabled ML-driven route optimization, reducing delays by 30%.
 
 ### 🛒 [E-Commerce DevOps Implementation](https://github.com/siddhanth2001/E-Commerce-Devops-Implementation)  
 *AWS • Docker • Kubernetes • Terraform*  
-- Deployed a microservices e-commerce platform with automated infrastructure and CI/CD workflows.  
-- Simulates real-world production environments with scalability and observability.
+- Deployed a microservices-based platform with infrastructure-as-code and CI/CD automation.  
+- Simulated real-world e-commerce operations with scalability and observability.
 
 ### 🧾 [AI-powered Invoice Tracker](https://github.com/siddhanth2001/AI-Powered-Invoice-Tracker)  
 *Flask • GCP • Cloud Vision API • Gemini Pro*  
-- Created a smart tool to scan, extract, and analyze receipt data with 95% accuracy.  
-- Deployed using Cloud Run for effortless scalability and low maintenance.
+- Built an OCR-driven tool that extracts and analyzes invoice data with 95%+ accuracy.  
+- Deployed via Cloud Run and integrated with Cloud Storage for seamless, scalable operation.
 
 ---
 
